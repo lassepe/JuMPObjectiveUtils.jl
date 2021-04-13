@@ -2,7 +2,7 @@ module JuMPObjectiveUtils
 
 import JuMP
 
-export NonlinearJuMPObjective, QuadraticJuMPObjective, add_objective!
+export AbstractJuMPObjective, NonlinearJuMPObjective, QuadraticJuMPObjective, add_objective!
 
 #============================================ Interfact ============================================#
 
